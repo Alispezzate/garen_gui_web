@@ -1,4 +1,6 @@
-body {background-color: #303030;}
+body {
+  background-color: #303030;
+}
 
 $green: #008744;
 $blue: #0057e7;
@@ -7,7 +9,7 @@ $yellow: #ffa700;
 $white: #eee;
 
 $width: 100px;
-$zoom: 1.7;
+$zoom: 4;
 
 .loader {
   position: relative;
